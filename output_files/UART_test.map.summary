@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Thu May 08 10:06:02 2025
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : UART_test
+Top-level Entity Name : invert_uart_transceiver_test
+Family : Cyclone IV E
+Total logic elements : 107
+    Total combinational functions : 90
+    Dedicated logic registers : 66
+Total registers : 66
+Total pins : 28
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
