@@ -3,12 +3,13 @@
 
 A comprehensive **FPGA UART transceiver** implementation 🖥️🔌 — including transmitter, receiver, test benches, and simulation setup. Written in **Verilog** & **VHDL** 💻.
 
+
 <div align="center">
  
 ![](prototype.png)
 
 </div>
----
+
 
 ## 📖 Overview
 
@@ -93,4 +94,5 @@ This repo contains an FPGA-based transceiver project featuring:
 * 🔧 Extend with **custom UART features** or **peripherals**.
 
 ---
+
 
